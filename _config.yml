@@ -20,7 +20,7 @@ kramdown:
 # Setup
 title:               '黑客与画家'
 tagline:             '计算机时代的大思想'
-description:         '此翻译内容不代表原作者观点'
+description:         ''
 url:                 https://github.com/elotroalex/ed
 baseurl:             ''
 
