@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>黑客与画家</title>
+ <link href="https://github.com/elotroalex/ed/atom.xml" rel="self"/>
+ <link href="https://github.com/elotroalex/ed/"/>
+ <updated>2016-02-02T07:02:46+08:00</updated>
+ <id>https://github.com/elotroalex/ed</id>
+ <author>
+   <name>Alex Gil</name>
+   <email>colibri.alex@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>如何获取财富</title>
+   <link href="https://github.com/elotroalex/ed/how-to-make-wealth.html"/>
+   <updated>2016-02-01T00:00:00+08:00</updated>
+   <id>https://github.com/elotroalex/ed/how-to-make-wealth</id>
+   <content type="html">&lt;p&gt;如果你想要获得财富，那么该如何做呢？我觉得把赌注压在创业或者加入一个创业上是最好的选择。上百年来这都是一个获取财富的可靠途径。”startup”这个词起源于20世纪60年代，但是这个词的含义却很接近中世纪的风险投资支持的航海贸易。&lt;/p&gt;
+
+&lt;p&gt;创业往往都和科技有关，以至于在创业前面加上高科技三个字都有点多余。创业就是一个小团队去解决某个技术难题。&lt;/p&gt;
+
+&lt;p&gt;许多人变得富有除了这种方式基本没有别的。要成为一个好棒球投手不必懂得物理知识。但我觉得懂得其背后的原理能让你获得更大的优势。为什么创业必须是小的？创业会不可避免的在其变大后终止吗？还有为什么创业的方向总是在开发新的科技？为什么那么多的创业都是在贩卖新的药品和软件而没有卖玉米油和洗衣粉的。&lt;/p&gt;
+
+&lt;h2 id=&quot;section&quot;&gt;命题&lt;/h2&gt;
+
+&lt;p&gt;从经济学的角度，你可以认为创业就像把你一生的工作压缩到相对更短的几年中。不是低强度的工作四十年而可能是高强度的工作四年。特别是在科技创业里，你可以通过快速工作获得更过的回报。&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
